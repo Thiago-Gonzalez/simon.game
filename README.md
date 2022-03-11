@@ -1,7 +1,7 @@
 <h1>Simon Game</h1>
-<p>A Simon web game made using HTML, CSS and JS, including jQuery js's framework.</p>
-<a href="https://thiago-gonzalez.github.io/simon.game/">Click here to acess Simon Game.</a>
-<h2>How to play</h2>
-<p>Playing the Simon game is very simple. To start you must press any key. Then, the game will show you the colors that you must memorize and later you must click on the buttons with the corresponding colors according to the sequence that has been established. Each level increases the amount of colors in the sequence and you must memorize the correct sequence and insert it from the beginning to the last color presented to level up. If you miss the sequence, it's game over!</p>
-<p>Hope you enjoy and beat the score of your friends🧐</p>
+<p>Simon Game é um projeto desenvolvido durante o curso "The Complete 2021 Web Development Bootcamp", ministrado pela Angela Yu na plataforma Udemy. Este projeto foi criado com o intuito de aprender e práticar a utilização das tecnologias de programação HTML, CSS e JavaScript, incluindo jQuery, uma framework JavaScript.</p>
+<a href="https://thiago-gonzalez.github.io/simon.game/">Clique aqui para acessar o Simon Game.</a>
+<h2>Como jogar</h2>
+<p>Jogar o Simon Game é muito simples. Para iniciar você deve pressionar qualquer tecla. Então, o jogo mostrará as cores que você deve memorizar e depois você deve clicar nos botões com as cores correspondentes de acordo com a sequência que foi estabelecida. Cada nível aumenta a quantidade de cores na sequência e você deve memorizar a sequência correta e inseri-la do início até a última cor apresentada para subir de nível. Se você perder a sequência, o jogo acabou!</p>
+<p>Espero que goste e bata a pontuação de seus amigos🧐</p>
 <p align="center">&copy 2021 Thiago González</p>
